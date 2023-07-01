@@ -15,7 +15,7 @@ function Projectlist() {
       <Container fluid className="project-section">
         <Container>
           <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-            <Col md={4} className="project-card">
+            {/* <Col md={4} className="project-card">
               <ProjectCard
                 imgPath={useradminpanel}
                 isBlog={false}
@@ -74,7 +74,7 @@ function Projectlist() {
                 ghLink="https://todolist-rahul81.netlify.app/"
 
               />
-            </Col>
+            </Col> */}
           </Row>
         </Container>
       </Container>

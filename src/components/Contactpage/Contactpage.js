@@ -16,7 +16,7 @@ function Contactpage() {
         <button
           className="contactbtn"
           onClick={() => {
-            window.open("https://www.instagram.com/rahulvijay81/");
+            window.open("https://www.linkedin.com/in/anas-alsmadi-4585691a4/");
           }}
         >
           Say Hello
@@ -25,7 +25,7 @@ function Contactpage() {
         <p className="copyright">
           © Copyright 2023
           <hr />
-          Designed & Built by <span>rahulvijay</span>
+          Designed & Built by <span>Anas alsmadi</span>
         </p>
       </Container>
     </div>
