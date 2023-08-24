@@ -19,15 +19,16 @@ function Aboutpage() {
                                     <li>HTML/CSS</li>
                                     <li>JavaScript</li>
                                     {/* <li>jQuery</li> */}
-                                    <li>Bootsrap </li>
+                                    <li>React Js</li>
+                                    <li>React-Bootsrap</li>
                                 </Col>
                                 <Col md={5}>
-                                    <li>React Js</li>
                                     <li>Node Js</li>
-                                    <li>SQL</li>
+                                    <li>MySQL</li>
+                                    <li>PostgreSQL</li>
+                                    <li>Sequelize</li>
+                                    <li>AWS</li>
                                     {/* <li>Redux Js</li> */}
-                                    <li>React-Bootsrap</li>
-                                    {/* <li>Material-ui</li> */}
                                     <li>Git/Github</li>
                                 </Col>
                             </Row>

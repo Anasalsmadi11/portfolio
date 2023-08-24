@@ -11,7 +11,7 @@ html {
 * {
   margin: 0;
   padding: 0;
-  cursor: none;
+  /* cursor: none; */
 }
 #no-scroll {
   overflow: hidden;
@@ -60,18 +60,18 @@ html {
 }
 
 .cursor {
-  background-color: #191919;
+  /* background-color: #191919;
   opacity: 0.6;
   height: 18px;
   width: 18px;
-  border-radius: 50%;
-  position: fixed;
+  border-radius: 50%;*/
+  position: fixed; 
   top: 0;
   left: 0;
 }
 
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
   .cursor{
     display: none;
   }
-}
+} */
