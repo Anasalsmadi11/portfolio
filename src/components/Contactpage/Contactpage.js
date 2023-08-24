@@ -16,7 +16,7 @@ function Contactpage() {
         <button
           className="contactbtn"
           onClick={() => {
-            window.open("https://www.linkedin.com/in/anas-alsmadi-4585691a4/");
+            window.open("https://www.linkedin.com/in/anas-alsmadi");
           }}
         >
           Say Hello
