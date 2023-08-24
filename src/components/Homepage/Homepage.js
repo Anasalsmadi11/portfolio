@@ -24,17 +24,17 @@ function Home() {
             }}
               className='socailmediabtn'><AiFillGithub className='icon' /></button>
             <button onClick={() => {
-              window.open("https://www.linkedin.com/in/anas-alsmadi-4585691a4/");
+              window.open("https://www.linkedin.com/in/anas-alsmadi");
             }}
               className='socailmediabtn'><FaLinkedinIn className='icon' /></button>
             {/* <button onClick={() => {
               window.open("https://twitter.com/rahulvijay8156");
             }}
               className='socailmediabtn'><AiOutlineTwitter className='icon' /></button> */}
-            <button onClick={() => {
+            {/* <button onClick={() => {
               window.open("https://www.instagram.com/anas_alsmadi11/");
             }}
-              className='socailmediabtn'><AiFillInstagram className='icon' /></button>
+              className='socailmediabtn'><AiFillInstagram className='icon' /></button> */}
           </Col>
 
           <Col md={5}>
